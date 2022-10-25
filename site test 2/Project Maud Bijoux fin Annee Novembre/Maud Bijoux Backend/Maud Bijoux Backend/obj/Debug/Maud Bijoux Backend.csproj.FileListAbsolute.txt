@@ -1,0 +1,75 @@
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\obj\Debug\Maud Bijoux Backend.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\obj\Debug\Maud Bijoux Backend.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Maud Bijoux Backend.dll.config
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Maud Bijoux Backend.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Maud Bijoux Backend.pdb
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Cors.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\WebGrease.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Http.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\obj\Debug\Maud Bijoux Backend.csproj.CopyComplete
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\obj\Debug\Maud Bijoux Backend.dll
+C:\Users\USER\Desktop\Project Maud Bijoux fin Annee Novembre\Maud Bijoux Backend\Maud Bijoux Backend\obj\Debug\Maud Bijoux Backend.pdb
